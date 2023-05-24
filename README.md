@@ -7,7 +7,6 @@ This codes makes use of
 3. MOSEK:https://www.mosek.com/downloads/ in solving the robust optimization problems.
 # Before Running Examples
 a. Main_robotic_arm.m is the main program that runs the robust optimization training of ELM, user can just run this .m program to generate the results (but need to download all codes for subprogram call).
-b. To run the paper results, user can load the data.mat and run from line 72 of our paper.
 # Features
 Robust optimization for ELM learning of robotic arms in
 ![image](https://github.com/xiangweiming/ignnv/blob/master/images/pic_10.png)
